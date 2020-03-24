@@ -9,4 +9,7 @@
 - DataSource Connection pool
   > Before 2.x default is Tomcat CP <br />
   > AFTER 2.x default is Hikari CP
- 
+- JUnit 4 by default
+- JUnit 5 Support
+- HTTP/2 Support
+- Quartz Support
