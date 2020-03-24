@@ -7,6 +7,6 @@
 - Auto Configuration feature
 - Oauth2 is merges with Spring Security
 - DataSource Connection pool
-  > Before 2.x default is Tomcat CP
-  > aFTER 2.x default is Hikari CP
+  > Before 2.x default is Tomcat CP \n
+  > AFTER 2.x default is Hikari CP
  
