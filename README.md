@@ -13,3 +13,5 @@
 - JUnit 5 Support
 - HTTP/2 Support
 - Quartz Support
+- Added new event (ApplcationStartedEvent)
+
