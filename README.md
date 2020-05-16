@@ -14,4 +14,5 @@
 - HTTP/2 Support
 - Quartz Support
 - Added new event (ApplcationStartedEvent)
+- Added QuerDSL Support (QuerydslPredicateExecutor)
 
